@@ -1,6 +1,8 @@
 venv/
 .env
 .pytest_cache/
+tests/
+pytest.ini
 .coverage
 htmlcov/
 __pycache__/
